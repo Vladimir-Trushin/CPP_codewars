@@ -1,1 +1,1 @@
-# CPP_codewars
+c++ language coding practice
